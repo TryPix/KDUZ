@@ -6,6 +6,6 @@ Simple terminal based platformer using Curses in Python. I completed this projec
 Curses is by installed by default on Mac and Linux versions of Python, but if on Windows, make sure to install it:
 > python -m pip install windows-curses
 
-Then, make sure to full screen a terminal application (Powershell works as well) and run:
+Then, make sure to full screen a terminal application and run:
 > python kduz.py
  
