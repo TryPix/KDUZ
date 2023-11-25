@@ -1,6 +1,8 @@
 # KDUZ
 Simple terminal based platformer using Curses in Python. I completed this project with Maxime Lehmann in the scope of Mr Kessler OC Python class in CEC André-Chavanne. This project intentionally does not adhere to object oriented programming (as this was taught in a latter part of the class). This led to the creation of many global constants and hardcoded segments, which is usually not recommended. 
 
+This was our first actual programming project, and was completed using Notepad++/Atom with Powershell/Terminal (i.e. without and IDE). 
+
 ## Usage 
 
 Curses is by installed by default on Mac and Linux versions of Python, but if on Windows, make sure to install it:
